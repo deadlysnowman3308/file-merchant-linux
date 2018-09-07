@@ -2,7 +2,7 @@
 configuredDownloadClient=""
 configuredUploadClient=""
 configuredClient=""
-currentVersion="1.22.0"
+currentVersion="1.0"
 down="false"
 
 
