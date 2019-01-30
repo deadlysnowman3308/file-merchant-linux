@@ -159,7 +159,6 @@ Examples:
   ./file-merchant /root/Desktop/fileToTransfer.txt
   ./file-merchant /firstFileToTransfer.txt ~/secondFileToTransfer.txt ~/thirdFileToTransfer.txt
   ./file-merchant -d ~/outputDirectory fileID fileName
-  ./file-merchant -o ~/fileToTransfer.txt
 EOF
 }
 
